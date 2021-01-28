@@ -1,0 +1,28 @@
+{
+  "name": "hydrasimplydesktop",
+  "version": "0.0.1",
+  "description": "Application pour la mise en place d'une interface simple, pour une utilisation de type TV de votre ordinateur",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yghore/HydraSimplyDesktop.git"
+  },
+  "keywords": [
+    "Desktop",
+    "tv",
+    "simple"
+  ],
+  "author": "Yghore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yghore/HydraSimplyDesktop/issues"
+  },
+  "homepage": "https://github.com/Yghore/HydraSimplyDesktop#readme"
+}
